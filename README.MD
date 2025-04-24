@@ -31,6 +31,7 @@ streamlit run app.py
 ```
 
 ```bash
-   mv "images/Screenshot 2025-04-24 095051.png" images/Screenshot_2025-04-24_095051.png
-   mv "images/Screenshot 2025-04-24 095141.png" images/Screenshot_2025-04-24_095141.png
+  ![User Interface](images/sc1.png)
+  ![After File Upload](images\sc2.png)
+
 ```
