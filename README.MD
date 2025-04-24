@@ -30,8 +30,5 @@ A Streamlit-based AI-powered assistant that performs automated EDA, suggests pre
 streamlit run app.py
 ```
 
-```bash
-  ![User Interface](images/sc1.png)
-  ![After File Upload](images\sc2.png)
-
-```
+![User Interface](images/sc1.png)  
+![After File Upload](images/sc2.png)
