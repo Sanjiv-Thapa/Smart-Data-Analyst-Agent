@@ -33,5 +33,5 @@ streamlit run app.py
 
 <!-- ![App Interface Screenshot](images\Screenshot 2025-04-24 095051.png)
 ![After File Upload](images\Screenshot 2025-04-24 095141.png) -->
-![App Interface Screenshot](images/Screenshot 2025-04-24-095051.png)
-![After File Upload](images/Screenshot 2025-04-24-095141.png)
+![App Interface Screenshot](images\Screenshot 2025-04-24 095051.png)
+![After File Upload](images\Screenshot 2025-04-24 095141.png)
