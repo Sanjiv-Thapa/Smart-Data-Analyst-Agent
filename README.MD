@@ -23,10 +23,12 @@ A Streamlit-based AI-powered assistant that performs automated EDA, suggests pre
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
-
+  ```
 
 ### Run the app
--streamlit run app.py
+```bash
+streamlit run app.py
+```
 
 
 <!-- ![App Interface Screenshot](images\Screenshot 2025-04-24 095051.png)
