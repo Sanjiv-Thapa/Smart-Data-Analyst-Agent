@@ -29,3 +29,5 @@ A Streamlit-based AI-powered assistant that performs automated EDA, suggests pre
 -streamlit run app.py
 
 
+![App Interface Screenshot]("C:\Users\SANJIV THAPA\Pictures\Screenshots\Screenshot 2025-04-24 095051.png")
+!["after file upload]("C:\Users\SANJIV THAPA\Pictures\Screenshots\Screenshot 2025-04-24 095141.png")
